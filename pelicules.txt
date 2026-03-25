@@ -1,6 +1,3 @@
 El rastro del lobo
-<<<<<<< HEAD
-Monty Python and the Holy Grail
-=======
 Blade Runner 2049
->>>>>>> origin/main
+Interestelar
